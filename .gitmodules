@@ -1,0 +1,3 @@
+[submodule "Turkce-Kelime-Listesi"]
+	path = Turkce-Kelime-Listesi
+	url = https://github.com/CanNuhlar/Turkce-Kelime-Listesi.git
